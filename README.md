@@ -1,4 +1,4 @@
-## Hi, I'm William Guy 👋
+## Hi, I'm Will 👋
 
 I'm a final-year medical student and former pharmacist with interests in medical education and digital healthcare.
 
