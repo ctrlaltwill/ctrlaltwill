@@ -1,10 +1,10 @@
-# Hi, I'm William Guy 👋
+## Hi, I'm William Guy 👋
 
 I'm a final-year medical student and former pharmacist with interests in medical education and digital healthcare.
 
 I create tools to help medical students and clinicians study more effectively — most notably [**Sprout**](https://github.com/ctrlaltwill/Sprout), an Obsidian plugin for spaced-repetition.
 
-## Open Source Projects
+### Open Source Projects
 
 | Project | Stars | Forks | Issues |
 |---------|:-----:|:----:|:-----:|
@@ -13,6 +13,6 @@ I create tools to help medical students and clinicians study more effectively �
 | [**Ankipedia**](https://github.com/ctrlaltwill/Ankipedia) – Anki plugin that adds Wikipedia tooltips to flashcards for quick lookup and reference | ![Stars](https://img.shields.io/github/stars/ctrlaltwill/Ankipedia?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/ctrlaltwill/Ankipedia?style=flat-square&labelColor=343b41) | ![Issues](https://img.shields.io/github/issues/ctrlaltwill/Ankipedia?style=flat-square&labelColor=343b41) |
 
 
-## Contact Me
+### Contact Me
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/williamguy/), or exploring the beautiful New Zealand countryside on my bike! 🚴‍♂️
