@@ -1,8 +1,8 @@
-## Hi, I'm Will 👋
+## Kia ora, I'm Will 👋
 
 I'm a final-year medical student and former pharmacist with interests in medical education and digital healthcare.
 
-I create tools to help medical students and clinicians study more effectively — most notably [**Sprout**](https://github.com/ctrlaltwill/Sprout), an Obsidian plugin for spaced-repetition.
+I build tools to help medical students and clinicians study more effectively — most notably [**Sprout**](https://github.com/ctrlaltwill/Sprout), an Obsidian plugin for spaced-repetition. 
 
 ### Current Projects
 
