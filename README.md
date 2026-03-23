@@ -2,7 +2,7 @@
 
 I'm a final-year medical student and former pharmacist with interests in medical education and digital healthcare.
 
-I build tools to help medical students and clinicians study more effectively — most notably [**LearnKit**](https://github.com/ctrlaltwill/LearnKit), an Obsidian plugin that brings flashcards, spaced repetition and AI-powered study tools directly into your notes. It is proudly open-source and free to use, with a focus on making high-quality learning tools accessible to everyone.
+I build tools to help medical students and clinicians study more effectively — most notably [**LearnKit**](https://github.com/ctrlaltwill/LearnKit), an Obsidian plugin that brings flashcards, spaced repetition and AI-powered study tools directly into your notes.
 
 ### Current Projects
 
